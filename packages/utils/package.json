@@ -1,0 +1,12 @@
+{
+  "name": "utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:async": "node src/async"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

@@ -1,13 +1,7 @@
 {
-    "name": "easy",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "scripts": {
-        "test:async": "node src/async.js"
-    },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "type": "module"
+  "name": "root",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
 }
